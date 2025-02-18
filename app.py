@@ -24,7 +24,6 @@ from starlette.responses import RedirectResponse
 import pandas as pd
 
 from networksecurity.utils.main_utils.utils import load_object
-
 from networksecurity.utils.ml_utils.model.estimator import NetworkModel
 
 
